@@ -1,6 +1,4 @@
-## Description
-
-* This project is about Anomaly detection of a Log based dataset with reasons behind why a certain record constitutes an anomaly using a mix of ML models like the IsolationForest Machine learning model, and performing Data ETL techniques to work with the Data.
+This project is about Anomaly detection of a Log based dataset with reasons behind why a certain record constitutes an anomaly using a mix of ML models like the IsolationForest Machine learning model, and performing Data ETL techniques to work with the Data.
 
 ## Important File Descriptions
 
